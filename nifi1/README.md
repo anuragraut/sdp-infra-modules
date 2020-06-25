@@ -1,0 +1,1 @@
+Module to setup HDI cluster with one NiFi instance

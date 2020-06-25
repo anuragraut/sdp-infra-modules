@@ -1,0 +1,1 @@
+Basic module for each resource group, contains the resource group itself and a storage account to store Terraform infra state for. 

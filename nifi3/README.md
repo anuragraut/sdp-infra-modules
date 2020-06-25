@@ -1,0 +1,1 @@
+Module to setup HDI cluster with a three-node NiFi cluster

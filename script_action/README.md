@@ -1,0 +1,1 @@
+Any script actions (https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-customize-cluster-linux) to be executed when a HDI cluster is created are to be placed here. 

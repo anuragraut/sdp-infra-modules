@@ -1,0 +1,1 @@
+The platform's resource group (only one should exist)

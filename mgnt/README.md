@@ -1,0 +1,1 @@
+Module to setup the management machines (JIRA, Jenkins, Nexus, Bitbucket)
